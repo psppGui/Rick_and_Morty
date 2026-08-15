@@ -20,8 +20,11 @@ A aplicação utiliza a Rick and Morty API para buscar personagens da série pel
 ## API utilizada
 Rick and Morty API:
 https://rickandmortyapi.com/
+
+Link para acessar:https://rickandmortyapibusca.netlify.app/
+
 Exemplo de requisição:
 ```text
 https://rickandmortyapi.com/api/character/?name=rick
 
-link para acessar:https://rickandmortyapibusca.netlify.app/
+
