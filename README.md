@@ -24,4 +24,4 @@ Exemplo de requisição:
 ```text
 https://rickandmortyapi.com/api/character/?name=rick
 
-link para acessar:
+link para acessar:https://rickandmortyapibusca.netlify.app/
