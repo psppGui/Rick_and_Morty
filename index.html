@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rick and Morty - Série</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Rick and Morty</h1>
+    </header>
+    <main>
+      <section class="busca">
+        <h2>Filtro de busca Rick and Morty</h2>
+        <div class="campo-busca">
+          <input
+            type="text"
+            id="nome_personagem"
+            placeholder="Digite o nome do personagem"/>
+          <button onclick="busca_personagem_serie()" id="btn_buscar">Buscar</button>
+        </div>
+      </section>
+      <section class="personagem">
+        <div class="foto">
+          <img id="foto_personagem"  alt="Foto do personagem" style="display: none;" />
+        </div>
+        <div class="descricao">
+          <h2 id="nome_personagem_exibido">Nome do personagem</h2>
+          <p id="status_personagem">
+            Status
+          </p>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>© 2026</p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
