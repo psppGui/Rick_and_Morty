@@ -21,7 +21,7 @@ A aplicação utiliza a Rick and Morty API para buscar personagens da série pel
 Rick and Morty API:
 https://rickandmortyapi.com/
 
-<img src="" alt="Foto site">
+<img src="https://github.com/psppGui/Rick_and_Morty/blob/main/fotoRickandMorty.png" alt="Foto site">
 
 Link para acessar:https://rickandmortyapibusca.netlify.app/
 Exemplo de requisição:
